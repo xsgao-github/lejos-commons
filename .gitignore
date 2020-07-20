@@ -4,3 +4,9 @@ build
 out
 *.iml
 docs/api/*
+
+# Eclipse files & folders
+.project
+.classpath
+.settings/
+bin/
